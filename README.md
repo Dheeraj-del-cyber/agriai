@@ -96,6 +96,4 @@ python app.py
 
 ---
 
-🎥 Demo Video
 
-[Add your demo video link here]
